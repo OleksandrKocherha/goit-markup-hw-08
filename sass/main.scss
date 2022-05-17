@@ -1,17 +1,21 @@
-@import './utils/variables';
-@import './base/base';
-@import './base/container';
-
-@import './components/visually-hidden';
-
-@import './layout/header';
-@import './layout/hero';
-@import './layout/opportunities';
-@import './layout/about-us';
-@import './layout/command';
-@import './layout/clients';
-@import './layout/footer';
-@import './components/backdrop';
-@import './components/moda-form';
-
-@import './pages/portfolio';
+@import "./utils/variables";
+@import "./utils/dropp";
+@import "./components/visually-hidden";
+@import "./components/container";
+@import "./components/section-padding";
+@import "./components/title";
+@import "./components/page-header";
+@import "./components/contacts";
+@import "./components/logo";
+@import "./components/buttons";
+@import "./components/icon";
+@import "./components/hero";
+@import "./components/about";
+@import "./components/services";
+@import "./components/advantages";
+@import "./components/partners";
+@import "./components/page-footer";
+@import "./components/page-footer-form";
+@import "./components/portfolio-buttons";
+@import "./components/portfolio-card";
+@import "./components/backdrop-modal";
